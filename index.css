@@ -1,0 +1,21 @@
+.item {
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+}
+
+.item:hover {
+    background-color: burlywood;
+}
+
+.container {
+    height: 500px;
+    overflow: auto;
+}
+
+.item-active {
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    background-color: yellowgreen;
+}
